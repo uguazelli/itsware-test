@@ -1,0 +1,14 @@
+C:\Users\guaze\OneDrive\Desktop\Test\Socket\bin\Debug\net8.0\Socket.exe
+C:\Users\guaze\OneDrive\Desktop\Test\Socket\bin\Debug\net8.0\Socket.deps.json
+C:\Users\guaze\OneDrive\Desktop\Test\Socket\bin\Debug\net8.0\Socket.runtimeconfig.json
+C:\Users\guaze\OneDrive\Desktop\Test\Socket\bin\Debug\net8.0\Socket.dll
+C:\Users\guaze\OneDrive\Desktop\Test\Socket\bin\Debug\net8.0\Socket.pdb
+C:\Users\guaze\OneDrive\Desktop\Test\Socket\obj\Debug\net8.0\Socket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guaze\OneDrive\Desktop\Test\Socket\obj\Debug\net8.0\Socket.AssemblyInfoInputs.cache
+C:\Users\guaze\OneDrive\Desktop\Test\Socket\obj\Debug\net8.0\Socket.AssemblyInfo.cs
+C:\Users\guaze\OneDrive\Desktop\Test\Socket\obj\Debug\net8.0\Socket.csproj.CoreCompileInputs.cache
+C:\Users\guaze\OneDrive\Desktop\Test\Socket\obj\Debug\net8.0\Socket.dll
+C:\Users\guaze\OneDrive\Desktop\Test\Socket\obj\Debug\net8.0\refint\Socket.dll
+C:\Users\guaze\OneDrive\Desktop\Test\Socket\obj\Debug\net8.0\Socket.pdb
+C:\Users\guaze\OneDrive\Desktop\Test\Socket\obj\Debug\net8.0\Socket.genruntimeconfig.cache
+C:\Users\guaze\OneDrive\Desktop\Test\Socket\obj\Debug\net8.0\ref\Socket.dll
